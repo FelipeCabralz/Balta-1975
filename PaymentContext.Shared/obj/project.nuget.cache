@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "f18UkaQDq6GKsC2YpT953t1ip2W8pacaZmb2zccIXy8yz4d8Sshf/FSzD8A9Ow3xCkCRYzF0nQDl7n0Uq7qtMQ==",
+  "success": true,
+  "projectFilePath": "/mnt/c/Users/felipe.cabral/repositories/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj",
+  "expectedPackageFiles": [
+    "/home/felipe/.nuget/packages/flunt/1.0.5/flunt.1.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
