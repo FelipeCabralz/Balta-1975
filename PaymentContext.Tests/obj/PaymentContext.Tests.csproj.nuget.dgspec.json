@@ -1,33 +1,37 @@
 {
   "format": 1,
   "restore": {
-    "/mnt/c/Users/felipe.cabral/repositories/PaymentContext/PaymentContext.Tests/PaymentContext.Tests.csproj": {}
+    "C:\\Users\\Felipe\\Documents\\codigos\\Balta-1975\\PaymentContext.Tests\\PaymentContext.Tests.csproj": {}
   },
   "projects": {
-    "/mnt/c/Users/felipe.cabral/repositories/PaymentContext/PaymentContext.Domain/PaymentContext.Domain.csproj": {
+    "C:\\Users\\Felipe\\Documents\\codigos\\Balta-1975\\PaymentContext.Domain\\PaymentContext.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/mnt/c/Users/felipe.cabral/repositories/PaymentContext/PaymentContext.Domain/PaymentContext.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Felipe\\Documents\\codigos\\Balta-1975\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
         "projectName": "PaymentContext.Domain",
-        "projectPath": "/mnt/c/Users/felipe.cabral/repositories/PaymentContext/PaymentContext.Domain/PaymentContext.Domain.csproj",
-        "packagesPath": "/home/felipe/.nuget/packages/",
-        "outputPath": "/mnt/c/Users/felipe.cabral/repositories/PaymentContext/PaymentContext.Domain/obj/",
+        "projectPath": "C:\\Users\\Felipe\\Documents\\codigos\\Balta-1975\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
+        "packagesPath": "C:\\Users\\Felipe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Felipe\\Documents\\codigos\\Balta-1975\\PaymentContext.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/felipe/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Felipe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.cg.df.gov.br/nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://mundipagg.pkgs.visualstudio.com/_packaging/MundiGet/nuget/v2/": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/mnt/c/Users/felipe.cabral/repositories/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj": {
-                "projectPath": "/mnt/c/Users/felipe.cabral/repositories/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj"
+              "C:\\Users\\Felipe\\Documents\\codigos\\Balta-1975\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
+                "projectPath": "C:\\Users\\Felipe\\Documents\\codigos\\Balta-1975\\PaymentContext.Shared\\PaymentContext.Shared.csproj"
               }
             }
           }
@@ -62,27 +66,31 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.100-rc.1.21463.6/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/mnt/c/Users/felipe.cabral/repositories/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj": {
+    "C:\\Users\\Felipe\\Documents\\codigos\\Balta-1975\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/mnt/c/Users/felipe.cabral/repositories/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\Felipe\\Documents\\codigos\\Balta-1975\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
         "projectName": "PaymentContext.Shared",
-        "projectPath": "/mnt/c/Users/felipe.cabral/repositories/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj",
-        "packagesPath": "/home/felipe/.nuget/packages/",
-        "outputPath": "/mnt/c/Users/felipe.cabral/repositories/PaymentContext/PaymentContext.Shared/obj/",
+        "projectPath": "C:\\Users\\Felipe\\Documents\\codigos\\Balta-1975\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
+        "packagesPath": "C:\\Users\\Felipe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Felipe\\Documents\\codigos\\Balta-1975\\PaymentContext.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/felipe/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Felipe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.cg.df.gov.br/nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://mundipagg.pkgs.visualstudio.com/_packaging/MundiGet/nuget/v2/": {}
         },
         "frameworks": {
           "net6.0": {
@@ -120,37 +128,41 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.100-rc.1.21463.6/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/mnt/c/Users/felipe.cabral/repositories/PaymentContext/PaymentContext.Tests/PaymentContext.Tests.csproj": {
+    "C:\\Users\\Felipe\\Documents\\codigos\\Balta-1975\\PaymentContext.Tests\\PaymentContext.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/mnt/c/Users/felipe.cabral/repositories/PaymentContext/PaymentContext.Tests/PaymentContext.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\Felipe\\Documents\\codigos\\Balta-1975\\PaymentContext.Tests\\PaymentContext.Tests.csproj",
         "projectName": "PaymentContext.Tests",
-        "projectPath": "/mnt/c/Users/felipe.cabral/repositories/PaymentContext/PaymentContext.Tests/PaymentContext.Tests.csproj",
-        "packagesPath": "/home/felipe/.nuget/packages/",
-        "outputPath": "/mnt/c/Users/felipe.cabral/repositories/PaymentContext/PaymentContext.Tests/obj/",
+        "projectPath": "C:\\Users\\Felipe\\Documents\\codigos\\Balta-1975\\PaymentContext.Tests\\PaymentContext.Tests.csproj",
+        "packagesPath": "C:\\Users\\Felipe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Felipe\\Documents\\codigos\\Balta-1975\\PaymentContext.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/felipe/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Felipe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.cg.df.gov.br/nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://mundipagg.pkgs.visualstudio.com/_packaging/MundiGet/nuget/v2/": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/mnt/c/Users/felipe.cabral/repositories/PaymentContext/PaymentContext.Domain/PaymentContext.Domain.csproj": {
-                "projectPath": "/mnt/c/Users/felipe.cabral/repositories/PaymentContext/PaymentContext.Domain/PaymentContext.Domain.csproj"
+              "C:\\Users\\Felipe\\Documents\\codigos\\Balta-1975\\PaymentContext.Domain\\PaymentContext.Domain.csproj": {
+                "projectPath": "C:\\Users\\Felipe\\Documents\\codigos\\Balta-1975\\PaymentContext.Domain\\PaymentContext.Domain.csproj"
               },
-              "/mnt/c/Users/felipe.cabral/repositories/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj": {
-                "projectPath": "/mnt/c/Users/felipe.cabral/repositories/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj"
+              "C:\\Users\\Felipe\\Documents\\codigos\\Balta-1975\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
+                "projectPath": "C:\\Users\\Felipe\\Documents\\codigos\\Balta-1975\\PaymentContext.Shared\\PaymentContext.Shared.csproj"
               }
             }
           }
@@ -201,7 +213,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.100-rc.1.21463.6/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

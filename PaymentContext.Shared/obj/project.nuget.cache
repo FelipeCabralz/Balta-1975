@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "f18UkaQDq6GKsC2YpT953t1ip2W8pacaZmb2zccIXy8yz4d8Sshf/FSzD8A9Ow3xCkCRYzF0nQDl7n0Uq7qtMQ==",
+  "dgSpecHash": "JKxb3nSszatjlVsdPn/6kMTRpJ6Cbohv9/UJYjGz7ECUk+CrqdKI+k5KgAx6VSDEDPAgh3EJY8S2KL/bV78kSw==",
   "success": true,
-  "projectFilePath": "/mnt/c/Users/felipe.cabral/repositories/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj",
+  "projectFilePath": "C:\\Users\\Felipe\\Documents\\codigos\\Balta-1975\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
   "expectedPackageFiles": [
-    "/home/felipe/.nuget/packages/flunt/1.0.5/flunt.1.0.5.nupkg.sha512"
+    "C:\\Users\\Felipe\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512"
   ],
   "logs": []
 }
